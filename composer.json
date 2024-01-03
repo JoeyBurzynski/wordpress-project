@@ -1,0 +1,14 @@
+{
+    "name": "joey/wordpress-project",
+    "require": {
+        "phpcompatibility/phpcompatibility-wp": "^2.1",
+        "squizlabs/php_codesniffer": "^3.8",
+        "wp-coding-standards/wpcs": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Joey Burzynski",
+            "email": "joey@marketkarma.com"
+        }
+    ]
+}
